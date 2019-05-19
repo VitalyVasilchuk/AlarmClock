@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="alarm_label_stop">Stop</string>
+    <string name="alarm_label_start">Start</string>
+    <string name="alarm_label_disable">Disable</string>
+    <string name="alarm_done">done</string>
+    <string name="alarm_time_remaining">time remaining: %s</string>
+</resources>

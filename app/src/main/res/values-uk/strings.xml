@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Будильник</string>
+    <string name="alarm_label_start">Старт</string>
+    <string name="alarm_label_stop">Стоп</string>
+    <string name="alarm_time_remaining">залишок часу :%s</string>
+    <string name="alarm_label_disable">Відключити звук</string>
+    <string name="alarm_done">завершено</string>
+</resources>
